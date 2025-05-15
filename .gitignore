@@ -32,3 +32,5 @@
 *.app
 *.suo
 *.user
+/HL7Analyser/obj
+/HL7Analyser/bin
