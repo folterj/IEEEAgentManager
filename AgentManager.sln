@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AgentManager", "AgentManager\AgentManager.vcproj", "{19100C2A-215F-4BE0-B563-FDD8736BF2C7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AgentManagerSetup", "AgentManagerSetup\AgentManagerSetup.vdproj", "{E528CAFF-7F6F-46A6-B795-B4888573D3B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Agent Debug|Win32 = Agent Debug|Win32
+		Agent Release|Win32 = Agent Release|Win32
+		Debug|Win32 = Debug|Win32
+		Manager Debug|Win32 = Manager Debug|Win32
+		Manager Release|Win32 = Manager Release|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Agent Debug|Win32.ActiveCfg = Agent Debug|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Agent Debug|Win32.Build.0 = Agent Debug|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Agent Release|Win32.ActiveCfg = Agent Release|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Agent Release|Win32.Build.0 = Agent Release|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Debug|Win32.ActiveCfg = Agent Debug|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Debug|Win32.Build.0 = Agent Debug|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Manager Debug|Win32.ActiveCfg = Manager Debug|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Manager Debug|Win32.Build.0 = Manager Debug|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Manager Release|Win32.ActiveCfg = Manager Release|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Manager Release|Win32.Build.0 = Manager Release|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Release|Win32.ActiveCfg = Agent Release|Win32
+		{19100C2A-215F-4BE0-B563-FDD8736BF2C7}.Release|Win32.Build.0 = Agent Release|Win32
+		{E528CAFF-7F6F-46A6-B795-B4888573D3B3}.Agent Debug|Win32.ActiveCfg = Debug
+		{E528CAFF-7F6F-46A6-B795-B4888573D3B3}.Agent Release|Win32.ActiveCfg = Release
+		{E528CAFF-7F6F-46A6-B795-B4888573D3B3}.Debug|Win32.ActiveCfg = Debug
+		{E528CAFF-7F6F-46A6-B795-B4888573D3B3}.Manager Debug|Win32.ActiveCfg = Debug
+		{E528CAFF-7F6F-46A6-B795-B4888573D3B3}.Manager Release|Win32.ActiveCfg = Release
+		{E528CAFF-7F6F-46A6-B795-B4888573D3B3}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
